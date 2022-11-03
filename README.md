@@ -13,7 +13,7 @@ UofMbootcamp-Fullstack
 
 ## Screenshot
 
-![Screenshot of application](./assets/images/screenshot.png)
+![Screenshot of application]()
 
 ## License
 
